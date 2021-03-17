@@ -1,2 +1,2 @@
-# Class-20
-My class 20 project about deformation.
+# p5.play-boilerplate
+Boiler plate for p5.play
